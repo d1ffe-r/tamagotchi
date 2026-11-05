@@ -1,0 +1,5 @@
+D:\it\tamagotchi\tamagotchi\obj\Debug\tamagotchi.csproj.AssemblyReference.cache
+D:\it\tamagotchi\tamagotchi\obj\Debug\tamagotchi.Form1.resources
+D:\it\tamagotchi\tamagotchi\obj\Debug\tamagotchi.Properties.Resources.resources
+D:\it\tamagotchi\tamagotchi\obj\Debug\tamagotchi.csproj.GenerateResource.cache
+D:\it\tamagotchi\tamagotchi\obj\Debug\tamagotchi.csproj.CoreCompileInputs.cache
